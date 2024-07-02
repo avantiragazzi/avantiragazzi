@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я закончил курсы "Функциональное тестирование ПО" 
+Я закончил курсы "Функциональное тестирование ПО" и сейчас нахожусь в активном поиске нового места работы!
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://yastatic.net/s3/doc-binary/freeze/UY6YuYXhdUqtY78jwmR36uAI0Zg.png)](mailto:Dmtnikolenko@ya.ru)
 
@@ -83,8 +83,20 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| "Функциональное тестирование ПО"                         | 04/2024 - 07/2024 |
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+# Test Artifacts
+## [Теория тестирования](https://github.com/avantiragazzi/theory)
+## [Проектирование тестов и тест-дизайн](https://github.com/avantiragazzi/design)
+## [Тестовая документация](https://github.com/avantiragazzi/docs)
+## [Тестирование API](https://github.com/avantiragazzi/api)
+## [Работа с базами данных](https://github.com/avantiragazzi/database)
+## [Тестирование мобильных приложений](https://github.com/avantiragazzi/mobile)
+## [Работа с git и bash](https://github.com/avantiragazzi/git_bash)
+
+
+
+
+
