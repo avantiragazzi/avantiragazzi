@@ -88,7 +88,7 @@
 ## [Теория тестирования](https://github.com/avantiragazzi/theory)
 ## [Проектирование тестов и тест-дизайн](https://github.com/avantiragazzi/design)
 ## [Тестовая документация](https://github.com/avantiragazzi/docs)
-## [Тестирование веб-приложений]([https://github.com](https://github.com/avantiragazzi/web/blob/main/README.md))
+## [Тестирование веб-приложений](https://github.com/avantiragazzi/web/blob/main/README.md)
 ## [Тестирование API](https://github.com/avantiragazzi/api)
 ## [Работа с базами данных](https://github.com/avantiragazzi/database)
 ## [Тестирование мобильных приложений](https://github.com/avantiragazzi/mobile)
