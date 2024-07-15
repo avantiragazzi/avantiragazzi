@@ -5,7 +5,7 @@
 
 Меня зовут Дмитрий. Недавно я закончил курсы по функциональному тестированию ПО и сейчас активно ищу новую работу. В этом разделе я хочу поделиться артефактами, созданными мной во время обучения.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Kalugskll-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/kalugskll/) [![Gmail Badge](https://yastatic.net/s3/doc-binary/freeze/UY6YuYXhdUqtY78jwmR36uAI0Zg.png)](mailto:Dmtnikolenko@ya.ru)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Kalugskll-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kalugskll/) [![Gmail Badge](https://yastatic.net/s3/doc-binary/freeze/UY6YuYXhdUqtY78jwmR36uAI0Zg.png)](mailto:Dmtnikolenko@ya.ru)
 
 ---
 
@@ -15,7 +15,7 @@
     <a href="https://t.me/kalugskll" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="www.linkedin.com/in/kalugskll/" target="_blank">
+    <a href="https://www.linkedin.com/in/kalugskll/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     </div>
