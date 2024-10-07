@@ -14,7 +14,10 @@
 Основные темы в обучении:
 ТЕОРИЯ ТЕСТИРОВАНИЯ, ПРОЕКТИРОВАНИЕ ТЕСТОВ И ТЕСТ-ДИЗАЙН ТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЙ ТЕСТИРОВАНИЕ API РАБОТА С ДАННЫМИ ТЕСТИРОВАНИЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ РАБОТА С GIT И BASH
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Kalugskll-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kalugskll/) [![Gmail Badge](https://yastatic.net/s3/doc-binary/freeze/UY6YuYXhdUqtY78jwmR36uAI0Zg.png)](mailto:Dmtnikolenko@ya.ru)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@Kalugskll-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kalugskll/) [![Gmail Badge](https://yastatic.net/s3/doc-binary/freeze/UY6YuYXhdUqtY78jwmR36uAI0Zg.png)](mailto:Dmtnikolenko@ya.ru) <a href="https://t.me/kalugskll">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="Telegram Badge">
+</a>
+
 
 ---
 
