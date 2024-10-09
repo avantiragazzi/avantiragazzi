@@ -1,4 +1,5 @@
 # Привет!
+[Моё резюме](https://drive.google.com/file/d/1iwhQ-bnpmxmfMFn0XT0nMAZlgzLaI0Ux/view?usp=sharing)
 
 
 ### 👨‍💻 Обо мне:
